@@ -24,8 +24,8 @@ LoginPage.html
 
 ![WhatsApp Image 2020-07-26 at 8 10 32 PM](https://user-images.githubusercontent.com/60310009/90120167-149f0000-dd78-11ea-9118-ad24a10b8663.jpeg)
 HomePage.html
-
-Algorithm for FlowOfLoginToLogout
+------------------------------------------------------------------------------------------
+#Algorithm for FlowOfLoginToLogout
 ![Algorithm1](https://user-images.githubusercontent.com/60310009/90121226-5a0ffd00-dd79-11ea-8690-d3f83fbc4127.jpg)
 
 ![Algorithm2](https://user-images.githubusercontent.com/60310009/90121459-a1968900-dd79-11ea-956b-bf274caff8e9.jpg)
